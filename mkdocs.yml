@@ -101,3 +101,7 @@ nav:
   - Foundation: foundation.md
   - Giveaway: giveaway.md
   - Guides: guides.md
+
+
+extra_css:
+  - stylesheets/extra.css
