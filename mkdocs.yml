@@ -103,5 +103,5 @@ nav:
   - Guides: guides.md
 
 
-extra_css:
-  - stylesheets/extra.css
+extra_css: # <-------- HERE
+- stylesheets/extra.css
