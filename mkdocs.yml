@@ -86,8 +86,6 @@ font:
 # Plugins
 plugins:
   - search
-  - minify:
-      minify_html: true
 
 
 
