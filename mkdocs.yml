@@ -30,7 +30,7 @@ site_author: Calvin Leyon
 site_description: >-
   The Rare Store FAQ
 # Repository
-repo_name: leyoncorp/rare-faq
+repo_name:rare-faq
 repo_url: https://github.com/leyoncorp/rare-faq
 edit_uri: ""
 
