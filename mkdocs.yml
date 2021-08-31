@@ -1,8 +1,13 @@
 site_name: My Docs
 theme:
   name: material
+  palette:
+    scheme: "slate"
+    primary: "black"
+    accent: "black"
 
-
+extra_css:
+  - stylesheets/extra.css
 # Copyright (c) 2016-2021 Martin Donath <martin.donath@squidfunk.com>
 
 # Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -63,19 +68,9 @@ features:
   - search.share
   - search.suggest
   # - toc.integrate
-palette:
-  - scheme: default
-    primary: indigo
-    accent: indigo
-    toggle:
-      icon: material/toggle-switch-off-outline
-      name: Switch to dark mode
-  - scheme: slate
-    primary: red
-    accent: red
-    toggle:
-      icon: material/toggle-switch
-      name: Switch to light mode
+
+
+
 font:
   text: Roboto
   code: Roboto Mono
@@ -103,5 +98,3 @@ nav:
   - Guides: guides.md
 
 
-extra_css: # <-------- HERE
-- stylesheets/extra.css
