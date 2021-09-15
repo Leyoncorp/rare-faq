@@ -88,11 +88,11 @@ plugins:
 nav:
   - Overview: index.md
   - Getting started:
-    - Onboarding: onboarding.md
-    - Wallet: wallet.md
-    - Purchasing: purchasing.md
-    - Bidding: bid.md
-    - Selling: selling.md
+    - Account Set-Up: onboarding.md
+    - Account Funding: wallet.md
+    - Bidding on a NFT: bid.md
+    - Buying a NFT: purchasing.md
+    - Selling a NFT: selling.md
   - Guides: guides.md
 
 

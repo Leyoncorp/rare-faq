@@ -1,5 +1,5 @@
-# Onboarding
-### Account Setup 
+# Account Setup
+
 ### How do I create an account 
 You can create an account on Rare.store, by providing an e-mail address we will send you a magic link to access your account.
 
